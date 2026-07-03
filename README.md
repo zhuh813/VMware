@@ -1,5 +1,6 @@
 # VMware
 VMware架構圖
+
 graph TB
     %% 1. 全域精緻色系樣式定義
     classDef physical fill:#eceff1,stroke:#37474f,stroke-width:2px;
